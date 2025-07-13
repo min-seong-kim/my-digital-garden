@@ -6,5 +6,6 @@
 
 머신러닝
 
-1. [[Blog/ML/What is Machine Learning\|What is Machine Learning]]
-2. 
+1. [[Blog/ML/01. What is Machine Learning\|01. What is Machine Learning]]
+2. [[Blog/ML/02. Supervised learning(지도 학습)\|02. Supervised learning(지도 학습)]]
+3. [[Blog/ML/03. Unsupervised learning(비지도 학습)\|03. Unsupervised learning(비지도 학습)]]

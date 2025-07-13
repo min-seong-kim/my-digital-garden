@@ -18,3 +18,6 @@ ML/DL/RL에 대해 공부해보자.
 연구 주제
 [[Blog/RLHF/Distribution RLHF\|Distribution RLHF]]
 
+---
+상식
+[[Blog/상식\|상식]]
