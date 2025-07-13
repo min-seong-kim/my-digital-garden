@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/blog/homepage/","tags":["gardenEntry"]}
 ---
 
-fsdafsdfasfjklsdfja;sldkfsdkl
+ML/DL/RL에 대해 공부해보자.
+
