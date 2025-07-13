@@ -6,6 +6,8 @@
 
 ML/DL/RL에 대해 공부해보자.
 
+이 내용들은 김동재 교수님의 "딥러닝의 통계적 이해" 강의를 듣고 정리한 내용이다.
+
 [[Blog/ML/Machine Learning\|Machine Learning]]
 
 [[Blog/DL/Deep Learning\|Deep Learning]]
